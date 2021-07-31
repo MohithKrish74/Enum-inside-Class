@@ -1,0 +1,1 @@
+# Enum-inside-Class
